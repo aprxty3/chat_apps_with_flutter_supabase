@@ -1,16 +1,14 @@
-# chat_apps_with_flutter_supabase
+# Chat Apps with Flutter
 
-A new Flutter project.
+a mini project who created Game Apps with Flutter Framework, Timeago, and Supabase.
 
-## Getting Started
+## Requirement :
+* Timeago Package https://pub.dev/packages/timeago
+  for Generate Time Automatically
+* Supabase https://pub.dev/packages/supabase_flutter
+  to handle low latency real time communication.
 
-This project is a starting point for a Flutter application.
+## View
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/aprxty3/chat_apps_with_flutter_supabase/assets/73772152/a9f0617a-d117-41e9-bd25-2cf6b73643d1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
