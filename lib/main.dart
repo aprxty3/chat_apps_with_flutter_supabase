@@ -1,3 +1,4 @@
+import 'package:chat_apps_with_flutter_supabase/screen/splash_screen.dart';
 import 'package:chat_apps_with_flutter_supabase/utils/constans.dart';
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
@@ -19,13 +20,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        debugShowCheckedModeBanner: false,
-        title: 'My Chat App',
-        theme: appTheme,
-        home: const Scaffold(
-          body: Center(
-            child: Text('Hello World'),
-          ),
-        ));
+      debugShowCheckedModeBanner: false,
+      title: 'My Chat App',
+      theme: appTheme,
+      home: const SplashScreen(),
+    );
   }
 }
