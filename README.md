@@ -1,4 +1,4 @@
-# Chat Apps with Flutter
+# Chat Apps with Flutter & Supabase
 
 a mini project who created Game Apps with Flutter Framework, Timeago, and Supabase.
 
