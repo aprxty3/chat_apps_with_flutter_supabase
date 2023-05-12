@@ -1,6 +1,6 @@
 # Chat Apps with Flutter & Supabase
 
-a mini project who created Game Apps with Flutter Framework, Timeago, and Supabase.
+a mini project who created Chat Apps with Flutter Framework, Timeago, and Supabase.
 
 ## Requirement :
 * Timeago Package https://pub.dev/packages/timeago
